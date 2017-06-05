@@ -1,2 +1,3 @@
 # hello-world
-organize a single project
+ 
+ New to coding but not for long.
